@@ -1,0 +1,4185 @@
+[
+    {
+        "name": "Children's Oma Tori and toy flea market",
+        "startDate": "2025-06-07T09:00:00.000Z",
+        "location": {
+            "lat": 61.5034939,
+            "lng": 23.7540468
+        },
+        "globalContentCategories": [
+            "fairs",
+            "nature and well-being",
+            "food and beverage",
+            "kids and family"
+        ],
+        "ages": [
+            "age-2",
+            "age-1",
+            "age-5"
+        ],
+        "score": 100
+    },
+    {
+        "name": "Ohranjyvä's Sunday quiz",
+        "startDate": "2025-06-08T14:00:00.000Z",
+        "location": {
+            "lat": 61.49986707907093,
+            "lng": 23.754202765382505
+        },
+        "globalContentCategories": [
+            "food and beverage",
+            "literature"
+        ],
+        "ages": [
+            "age-5",
+            "age-6"
+        ],
+        "score": 100
+    },
+    {
+        "name": "Manse Pride Movie Brunch - The Wizard of Oz, 1939, K7",
+        "startDate": "2025-06-15T08:00:00.000Z",
+        "location": {
+            "lat": 61.49730629999999,
+            "lng": 23.7527402
+        },
+        "globalContentCategories": [
+            "movies",
+            "food and beverage"
+        ],
+        "ages": [],
+        "score": 100
+    },
+    {
+        "name": "Midsummer in the Stable Yards",
+        "startDate": "2025-06-22T08:00:00.000Z",
+        "location": {
+            "lat": 61.5034939,
+            "lng": 23.7540468
+        },
+        "globalContentCategories": [
+            "handicraft",
+            "consert",
+            "food and beverage"
+        ],
+        "ages": [],
+        "score": 100
+    },
+    {
+        "name": "Livestock market",
+        "startDate": "2025-08-23T08:00:00.000Z",
+        "location": {
+            "lat": 61.5034939,
+            "lng": 23.7540468
+        },
+        "globalContentCategories": [
+            "fairs",
+            "consert",
+            "food and beverage"
+        ],
+        "ages": [],
+        "score": 100
+    },
+    {
+        "name": "Autumn Fair",
+        "startDate": "2025-09-13T08:00:00.000Z",
+        "location": {
+            "lat": 61.5034939,
+            "lng": 23.7540468
+        },
+        "globalContentCategories": [
+            "fairs",
+            "food and beverage",
+            "consert"
+        ],
+        "ages": [],
+        "score": 100
+    },
+    {
+        "name": "Ohranjyvä's BINGO",
+        "startDate": "2025-06-05T14:00:00.000Z",
+        "location": {
+            "lat": 61.4998469,
+            "lng": 23.7542787
+        },
+        "globalContentCategories": [
+            "food and beverage"
+        ],
+        "ages": [
+            "age-5",
+            "age-6"
+        ],
+        "score": 80
+    },
+    {
+        "name": "Pop-up café:  cupcakes and rainbow politics",
+        "startDate": "2025-06-09T14:00:00.000Z",
+        "location": {
+            "lat": 61.50446952598526,
+            "lng": 23.783848483503068
+        },
+        "globalContentCategories": [
+            "food and beverage",
+            "voluntary",
+            "festivals"
+        ],
+        "ages": [
+            "age-6",
+            "age-5",
+            "age-4"
+        ],
+        "score": 80
+    },
+    {
+        "name": "Drag Karaoke NÄÄSTIxKUJA",
+        "startDate": "2025-06-11T16:00:00.000Z",
+        "location": {
+            "lat": 61.49429490000001,
+            "lng": 23.7679781
+        },
+        "globalContentCategories": [
+            "festivals",
+            "food and beverage",
+            "gig"
+        ],
+        "ages": [
+            "age-5"
+        ],
+        "score": 80
+    },
+    {
+        "name": "Kotisalsa Baila - Tampere Salsa Fest outdoor events",
+        "startDate": "2025-07-04T09:00:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "food and beverage",
+            "dance",
+            "circus",
+            "consert"
+        ],
+        "ages": [
+            "age-4",
+            "age-5",
+            "age-6"
+        ],
+        "score": 80
+    },
+    {
+        "name": "Kotisalsa Baila Concert Silvito El Nórdico",
+        "startDate": "2025-07-15T12:00:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "consert",
+            "food and beverage"
+        ],
+        "ages": [
+            "age-5",
+            "age-6",
+            "age-4"
+        ],
+        "score": 80
+    },
+    {
+        "name": "Kotisalsa Baila - Dance &  Concert",
+        "startDate": "2025-08-19T12:00:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "consert",
+            "food and beverage"
+        ],
+        "ages": [
+            "age-5",
+            "age-6",
+            "age-4"
+        ],
+        "score": 80
+    },
+    {
+        "name": "Free admission to Tampere Art Museum",
+        "startDate": "2025-06-05T21:00:00.000Z",
+        "location": {
+            "lat": 61.4984925,
+            "lng": 23.7438104
+        },
+        "globalContentCategories": [
+            "activities",
+            "excursions, guided tours"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Summer Park Concerts: Katri Hannele",
+        "startDate": "2025-06-07T08:00:00.000Z",
+        "location": {
+            "lat": 61.5016559,
+            "lng": 23.778584
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Free walking tour in English",
+        "startDate": "2025-06-07T08:00:00.000Z",
+        "location": {
+            "lat": 61.49804349999999,
+            "lng": 23.7600789
+        },
+        "globalContentCategories": [
+            "activities",
+            "excursions, guided tours"
+        ],
+        "ages": [
+            "age-3",
+            "age-4",
+            "age-5"
+        ],
+        "score": 60
+    },
+    {
+        "name": "Disability Pride 2025",
+        "startDate": "2025-06-07T10:30:00.000Z",
+        "location": {
+            "lat": 61.4989197,
+            "lng": 23.7486952
+        },
+        "globalContentCategories": [
+            "festivals",
+            "voluntary"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Laikku and the Whole World Cultural festival 2025",
+        "startDate": "2025-06-07T11:00:00.000Z",
+        "location": {
+            "lat": 61.49932339999999,
+            "lng": 23.7617918
+        },
+        "globalContentCategories": [
+            "festivals"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Free tour por el centro de Tampere en español",
+        "startDate": "2025-06-08T08:00:00.000Z",
+        "location": {
+            "lat": 61.49803669999999,
+            "lng": 23.7604206
+        },
+        "globalContentCategories": [
+            "activities",
+            "excursions, guided tours"
+        ],
+        "ages": [
+            "age-4",
+            "age-5",
+            "age-6"
+        ],
+        "score": 60
+    },
+    {
+        "name": "Summer opening of the summer café Villa Ponsa on Sunday 8 June at 12-17",
+        "startDate": "2025-06-08T09:00:00.000Z",
+        "location": {
+            "lat": 61.55369559999999,
+            "lng": 24.3132931
+        },
+        "globalContentCategories": [
+            "food and beverage",
+            "kids and family"
+        ],
+        "ages": [
+            "age-2",
+            "age-1",
+            "age-5"
+        ],
+        "score": 60
+    },
+    {
+        "name": "Pentecost afternoon organ music: Esa Toivola",
+        "startDate": "2025-06-08T10:00:00.000Z",
+        "location": {
+            "lat": 61.5025181,
+            "lng": 23.7698735
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Surrealism – A Collective Dream",
+        "startDate": "2025-02-07T22:00:00.000Z",
+        "location": {
+            "lat": 61.4984925,
+            "lng": 23.7438104
+        },
+        "globalContentCategories": [
+            "museums and galleries",
+            "museums",
+            "exhibitions"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "What on Earth? - Fairytale Crafts",
+        "startDate": "2025-04-05T08:00:00.000Z",
+        "location": {
+            "lat": 61.4988264,
+            "lng": 23.762119
+        },
+        "globalContentCategories": [
+            "museums and galleries",
+            "museums",
+            "exhibitions",
+            "handicraft"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Between the Surfaces",
+        "startDate": "2025-05-10T11:00:00.000Z",
+        "location": {
+            "lat": 61.4981872,
+            "lng": 23.7506002
+        },
+        "globalContentCategories": [
+            "nature and well-being",
+            "museums and galleries",
+            "museums",
+            "exhibitions",
+            "dance",
+            "circus"
+        ],
+        "ages": [
+            "age-5",
+            "age-2",
+            "age-6"
+        ],
+        "score": 60
+    },
+    {
+        "name": "Manse Pride programme in the Moomin Museum",
+        "startDate": "2025-06-09T21:00:00.000Z",
+        "location": {
+            "lat": 61.49595300000001,
+            "lng": 23.781375
+        },
+        "globalContentCategories": [
+            "activities",
+            "excursions, guided tours"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Anti-Art Drawing Club Pop-Up Gallery",
+        "startDate": "2025-06-14T00:00:00.000Z",
+        "location": {
+            "lat": 61.49683940000001,
+            "lng": 23.7813427
+        },
+        "globalContentCategories": [
+            "festivals",
+            "voluntary",
+            "museums and galleries",
+            "museums",
+            "exhibitions"
+        ],
+        "ages": [
+            "age-5",
+            "age-4",
+            "age-6"
+        ],
+        "score": 60
+    },
+    {
+        "name": "Pilates with Pride: Reformer Pilates",
+        "startDate": "2025-06-14T05:30:00.000Z",
+        "location": {
+            "lat": 61.498847233767776,
+            "lng": 23.785194549685507
+        },
+        "globalContentCategories": [
+            "tt_asuminen",
+            "tt_digitaidot",
+            "tt_erillaisuus_suvaitsevaisuus_vahemmistot",
+            "tt_kaverit_ihmissuhteet",
+            "tt_kotoutuminen_maahanmuutto",
+            "tt_paihteettomyys_riippuvuudet",
+            "tt_opiskelu_oppiminen",
+            "tt_mielen_hyvinvointi",
+            "tt_sairaudet",
+            "tt_talous_velka",
+            "tt_terveys_elintavat",
+            "tt_tyottomyys_tyollistyminen",
+            "tt_vammaisuus_liikuntarajoitteisuus"
+        ],
+        "ages": [
+            "age-5",
+            "age-4",
+            "age-6"
+        ],
+        "score": 60
+    },
+    {
+        "name": "Summer Park Concerts: MM-SEXTET",
+        "startDate": "2025-06-14T08:00:00.000Z",
+        "location": {
+            "lat": 61.5016559,
+            "lng": 23.778584
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Pride in Laikku: March Pre-Party",
+        "startDate": "2025-06-14T08:00:00.000Z",
+        "location": {
+            "lat": 61.4988264,
+            "lng": 23.762119
+        },
+        "globalContentCategories": [
+            "festivals",
+            "voluntary"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Plant dyed knit bag workshop",
+        "startDate": "2025-06-14T08:00:00.000Z",
+        "location": {
+            "lat": 61.49776629999999,
+            "lng": 23.7462129
+        },
+        "globalContentCategories": [
+            "handicraft"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Modus Market",
+        "startDate": "2025-06-14T08:00:00.000Z",
+        "location": {
+            "lat": 61.5034939,
+            "lng": 23.7540468
+        },
+        "globalContentCategories": [
+            "fairs",
+            "handicraft",
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Manse Pride march",
+        "startDate": "2025-06-14T09:30:00.000Z",
+        "location": {
+            "lat": 61.49803669999999,
+            "lng": 23.7604206
+        },
+        "globalContentCategories": [
+            "voluntary",
+            "kids and family"
+        ],
+        "ages": [
+            "age-5",
+            "age-4",
+            "age-1"
+        ],
+        "score": 60
+    },
+    {
+        "name": "Summer Park Concerts: Herkät Hemmot",
+        "startDate": "2025-06-14T11:00:00.000Z",
+        "location": {
+            "lat": 61.5036474,
+            "lng": 23.7513074
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Selkie – The Seal Woman",
+        "startDate": "2025-06-14T11:00:00.000Z",
+        "location": {
+            "lat": 61.4988264,
+            "lng": 23.762119
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Tantra at the park with Silja Helinä - drop-in for a hug!",
+        "startDate": "2025-06-14T12:00:00.000Z",
+        "location": {
+            "lat": 61.4975686867765,
+            "lng": 23.78490503308881
+        },
+        "globalContentCategories": [
+            "tt_asuminen",
+            "tt_digitaidot",
+            "tt_erillaisuus_suvaitsevaisuus_vahemmistot",
+            "tt_kaverit_ihmissuhteet",
+            "tt_kotoutuminen_maahanmuutto",
+            "tt_paihteettomyys_riippuvuudet",
+            "tt_opiskelu_oppiminen",
+            "tt_mielen_hyvinvointi",
+            "tt_sairaudet",
+            "tt_talous_velka",
+            "tt_terveys_elintavat",
+            "tt_tyottomyys_tyollistyminen",
+            "tt_vammaisuus_liikuntarajoitteisuus"
+        ],
+        "ages": [
+            "age-5",
+            "age-4"
+        ],
+        "score": 60
+    },
+    {
+        "name": "Manse Pride 2025 main celebration",
+        "startDate": "2025-06-14T12:00:00.000Z",
+        "location": {
+            "lat": 61.49662278362218,
+            "lng": 23.780980302624826
+        },
+        "globalContentCategories": [
+            "festivals",
+            "voluntary"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Manse Pride -Leimarit®",
+        "startDate": "2025-06-14T18:00:00.000Z",
+        "location": {
+            "lat": 61.5010826,
+            "lng": 23.76124740000001
+        },
+        "globalContentCategories": [
+            "gig",
+            "consert"
+        ],
+        "ages": [
+            "age-4",
+            "age-5",
+            "age-6"
+        ],
+        "score": 60
+    },
+    {
+        "name": "Summer Park Concerts: Pietari Hurmio",
+        "startDate": "2025-06-15T11:00:00.000Z",
+        "location": {
+            "lat": 61.4992975,
+            "lng": 23.7430531
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Laikun Lindyt 2025",
+        "startDate": "2025-06-15T14:00:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "dance",
+            "circus"
+        ],
+        "ages": [
+            "age-5",
+            "age-4"
+        ],
+        "score": 60
+    },
+    {
+        "name": "Pentecost afternoon organ music: Esa Toivola",
+        "startDate": "2025-06-22T10:00:00.000Z",
+        "location": {
+            "lat": 61.5025181,
+            "lng": 23.7698735
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Taste of Nokia",
+        "startDate": "2025-06-26T21:00:00.000Z",
+        "location": {
+            "lat": 61.4803094,
+            "lng": 23.501203
+        },
+        "globalContentCategories": [
+            "festivals",
+            "food and beverage"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Free admission to Moomin Museum",
+        "startDate": "2025-06-26T21:00:00.000Z",
+        "location": {
+            "lat": 61.49595300000001,
+            "lng": 23.781375
+        },
+        "globalContentCategories": [
+            "activities",
+            "excursions, guided tours"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "THE NEUEN SÄCHSISHEN GALLERIE´S GRAPIC ART BIENNAL: FIRE, FIRE",
+        "startDate": "2025-06-28T07:00:00.000Z",
+        "location": {
+            "lat": 61.4988264,
+            "lng": 23.762119
+        },
+        "globalContentCategories": [
+            "museums and galleries",
+            "museums",
+            "exhibitions"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Summer Vintage 2025",
+        "startDate": "2025-06-28T08:00:00.000Z",
+        "location": {
+            "lat": 61.5034939,
+            "lng": 23.7540468
+        },
+        "globalContentCategories": [
+            "festivals",
+            "fairs",
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Summer Park Concerts: Trio Viva",
+        "startDate": "2025-06-29T11:00:00.000Z",
+        "location": {
+            "lat": 61.4992975,
+            "lng": 23.7430531
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Summer Park Concerts: Duo SISI with Drums",
+        "startDate": "2025-07-05T08:00:00.000Z",
+        "location": {
+            "lat": 61.5016559,
+            "lng": 23.778584
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Summer Park Concerts: Vartin Yli",
+        "startDate": "2025-07-05T11:00:00.000Z",
+        "location": {
+            "lat": 61.5036474,
+            "lng": 23.7513074
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Afternoon organ music: Katja Mäkiö",
+        "startDate": "2025-07-06T10:00:00.000Z",
+        "location": {
+            "lat": 61.5025181,
+            "lng": 23.7698735
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Guns N’ Roses: 2025",
+        "startDate": "2025-07-06T21:00:00.000Z",
+        "location": {
+            "lat": 61.49328,
+            "lng": 23.76384
+        },
+        "globalContentCategories": [
+            "music",
+            "music",
+            "gig"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Afternoon organ music: Eveliina Ylikoski",
+        "startDate": "2025-07-13T10:00:00.000Z",
+        "location": {
+            "lat": 61.5025181,
+            "lng": 23.7698735
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Summer Park Concerts: Duo Justiina and Sanna",
+        "startDate": "2025-07-13T11:00:00.000Z",
+        "location": {
+            "lat": 61.4992975,
+            "lng": 23.7430531
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Summer Park Concerts: Aaro Joki & Arpajaiset",
+        "startDate": "2025-07-19T08:00:00.000Z",
+        "location": {
+            "lat": 61.5016559,
+            "lng": 23.778584
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Summer Park Concerts: Laulukvartetti 3vs1",
+        "startDate": "2025-07-19T11:00:00.000Z",
+        "location": {
+            "lat": 61.5036474,
+            "lng": 23.7513074
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Afternoon organ music: Elizaveta Vilavuo",
+        "startDate": "2025-07-20T10:00:00.000Z",
+        "location": {
+            "lat": 61.5025181,
+            "lng": 23.7698735
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Siipisaluunan Stand Up - Riku Suokas & Ystävät",
+        "startDate": "2025-07-26T17:00:00.000Z",
+        "location": {
+            "lat": 61.31586369999999,
+            "lng": 23.7575606
+        },
+        "globalContentCategories": [
+            "gig",
+            "theatre",
+            "food and beverage"
+        ],
+        "ages": [
+            "age-5"
+        ],
+        "score": 60
+    },
+    {
+        "name": "Afternoon organ music: Sonja Betten, Switzerland",
+        "startDate": "2025-07-27T10:00:00.000Z",
+        "location": {
+            "lat": 61.5025181,
+            "lng": 23.7698735
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Summer Park Concerts: Anna Katariina and Aleksi Laukkonen duo",
+        "startDate": "2025-07-27T11:00:00.000Z",
+        "location": {
+            "lat": 61.4992975,
+            "lng": 23.7430531
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Summer Park Concerts: Kaski Savuaa Trio",
+        "startDate": "2025-08-02T08:00:00.000Z",
+        "location": {
+            "lat": 61.5016559,
+            "lng": 23.778584
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Pink lace",
+        "startDate": "2025-08-02T08:00:00.000Z",
+        "location": {
+            "lat": 61.5034939,
+            "lng": 23.7540468
+        },
+        "globalContentCategories": [
+            "festivals",
+            "consert",
+            "handicraft"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Summer Park Concerts: Jules Varjola",
+        "startDate": "2025-08-02T11:00:00.000Z",
+        "location": {
+            "lat": 61.5036474,
+            "lng": 23.7513074
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Afternoon organ music: Osmo Honkanen",
+        "startDate": "2025-08-03T10:00:00.000Z",
+        "location": {
+            "lat": 61.5025181,
+            "lng": 23.7698735
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Jump Rhythm® Trio: Jump Rhythm® Live!",
+        "startDate": "2025-08-09T11:00:00.000Z",
+        "location": {
+            "lat": 61.49550379999999,
+            "lng": 23.7794352
+        },
+        "globalContentCategories": [
+            "dance",
+            "circus",
+            "theatre"
+        ],
+        "ages": [
+            "age-4",
+            "age-5",
+            "age-6"
+        ],
+        "score": 60
+    },
+    {
+        "name": "Tampere Philharmonic Orchestra: Park Concert",
+        "startDate": "2025-08-09T15:00:00.000Z",
+        "location": {
+            "lat": 61.49683940000001,
+            "lng": 23.7813427
+        },
+        "globalContentCategories": [
+            "consert",
+            "festivals"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Afternoon organ music: Jonas Lundblad, Sweden",
+        "startDate": "2025-08-10T10:00:00.000Z",
+        "location": {
+            "lat": 61.5025181,
+            "lng": 23.7698735
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Summer Park Concerts: Kati Huvi and Orchestra",
+        "startDate": "2025-08-10T11:00:00.000Z",
+        "location": {
+            "lat": 61.4992975,
+            "lng": 23.7430531
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "BLOCKFEST 2025: FRIDAY",
+        "startDate": "2025-08-14T21:00:00.000Z",
+        "location": {
+            "lat": 61.49263,
+            "lng": 23.76842
+        },
+        "globalContentCategories": [
+            "music",
+            "music",
+            "gig",
+            "festivals",
+            "music"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "BLOCKFEST 2025: SATURDAY",
+        "startDate": "2025-08-15T21:00:00.000Z",
+        "location": {
+            "lat": 61.49263,
+            "lng": 23.76842
+        },
+        "globalContentCategories": [
+            "music",
+            "music",
+            "gig",
+            "festivals",
+            "music"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Summer Park Concerts: Blue Hammer",
+        "startDate": "2025-08-16T08:00:00.000Z",
+        "location": {
+            "lat": 61.5016559,
+            "lng": 23.778584
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Ukrainian village festival",
+        "startDate": "2025-08-16T08:00:00.000Z",
+        "location": {
+            "lat": 61.5034939,
+            "lng": 23.7540468
+        },
+        "globalContentCategories": [
+            "festivals",
+            "consert",
+            "handicraft"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Summer Park Concerts: RatikkaPlikat",
+        "startDate": "2025-08-17T11:00:00.000Z",
+        "location": {
+            "lat": 61.4992975,
+            "lng": 23.7430531
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Tanssiteatteri MD: VOYEUR",
+        "startDate": "2025-08-23T15:00:00.000Z",
+        "location": {
+            "lat": 61.4971404,
+            "lng": 23.7560099
+        },
+        "globalContentCategories": [
+            "dance",
+            "circus",
+            "theatre",
+            "voluntary"
+        ],
+        "ages": [
+            "age-5",
+            "age-4",
+            "age-6"
+        ],
+        "score": 60
+    },
+    {
+        "name": "Farmer's Market at Nokia",
+        "startDate": "2025-08-30T07:00:00.000Z",
+        "location": {
+            "lat": 61.47972109999999,
+            "lng": 23.511793
+        },
+        "globalContentCategories": [
+            "food and beverage",
+            "fairs",
+            "festivals"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Yard and park flea market",
+        "startDate": "2025-08-30T08:00:00.000Z",
+        "location": {
+            "lat": 61.5034939,
+            "lng": 23.7540468
+        },
+        "globalContentCategories": [
+            "fairs",
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Nightrun 2025",
+        "startDate": "2025-09-06T15:00:00.000Z",
+        "location": {
+            "lat": 61.49294231190305,
+            "lng": 23.7602199156611
+        },
+        "globalContentCategories": [
+            "sports and fitness",
+            "festivals"
+        ],
+        "ages": [
+            "age-4",
+            "age-5",
+            "age-6"
+        ],
+        "score": 60
+    },
+    {
+        "name": "Tanssiteatteri MD: Dancing Moominvalley",
+        "startDate": "2025-09-13T11:00:00.000Z",
+        "location": {
+            "lat": 61.4971404,
+            "lng": 23.7560099
+        },
+        "globalContentCategories": [
+            "dance",
+            "circus",
+            "theatre"
+        ],
+        "ages": [
+            "age-2",
+            "age-3",
+            "age-5"
+        ],
+        "score": 60
+    },
+    {
+        "name": "Afternoon of Fauns: Up and Away!",
+        "startDate": "2025-09-21T12:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Tampere Philharmonic Orchestra: The Long Goodbye",
+        "startDate": "2025-10-31T17:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Tampere Philharmonic Orchestra: Passionate Romantics",
+        "startDate": "2025-11-07T17:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Afternoon of Fauns: Shivers and Glimmers",
+        "startDate": "2025-11-09T13:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Tampere Philharmonic Orchestra: SAGAS – Orchestral Fantasy Music",
+        "startDate": "2025-11-14T17:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Moomin and emotions - experiential shadow theater workshop",
+        "startDate": "2025-11-15T08:30:00.000Z",
+        "location": {
+            "lat": 61.4981872,
+            "lng": 23.7506002
+        },
+        "globalContentCategories": [
+            "theatre",
+            "literature",
+            "kids and family"
+        ],
+        "ages": [
+            "age-1",
+            "age-2"
+        ],
+        "score": 60
+    },
+    {
+        "name": "Tanssiteatteri MD: VIRNE-SMIRK",
+        "startDate": "2025-11-15T16:00:00.000Z",
+        "location": {
+            "lat": 61.4971404,
+            "lng": 23.7560099
+        },
+        "globalContentCategories": [
+            "dance",
+            "circus",
+            "theatre"
+        ],
+        "ages": [
+            "age-5",
+            "age-4",
+            "age-6"
+        ],
+        "score": 60
+    },
+    {
+        "name": "Kanae Nozawa Erhu Concert",
+        "startDate": "2025-11-21T17:00:00.000Z",
+        "location": {
+            "lat": 61.4966604,
+            "lng": 23.73994459999999
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Tampere Philharmonic Orchestra: One Thousand and One Nights",
+        "startDate": "2025-11-28T17:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Tampere Philharmonic Orchestra: Independence Day concert – Northern Song",
+        "startDate": "2025-12-06T13:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Tampere Philharmonic Orchestra: Symphonic Dances",
+        "startDate": "2025-12-12T17:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Afternoon of Fauns: Echoes on the Plains",
+        "startDate": "2025-12-13T13:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Tampere Philharmonic Orchestra: Christmas concert",
+        "startDate": "2025-12-19T17:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Tampere Philharmonic Orchestra: Santtu-Matias Rouvali & Bruce Liu",
+        "startDate": "2026-01-15T17:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Tampere Philharmonic Orchestra: Season series concert",
+        "startDate": "2026-01-23T17:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Tampere Philharmonic Orchestra: Season series concert",
+        "startDate": "2026-01-30T17:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Rajaton & Tampere Filharmonia: Queen – We will rock you!",
+        "startDate": "2026-02-05T17:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Tampere Philharmonic Orchestra: Season series concert",
+        "startDate": "2026-02-13T17:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 60
+    },
+    {
+        "name": "Elintarviketeollisuus 2026",
+        "startDate": "2026-09-08T21:00:00.000Z",
+        "location": {
+            "lat": 61.4641863,
+            "lng": 23.73187459999999
+        },
+        "globalContentCategories": [
+            "fairs",
+            "entrepreneurs",
+            "food and beverage"
+        ],
+        "ages": [
+            "age-5"
+        ],
+        "score": 60
+    },
+    {
+        "name": "Folk music jam sessions",
+        "startDate": "2025-06-05T15:00:00.000Z",
+        "location": {
+            "lat": 61.4988264,
+            "lng": 23.762119
+        },
+        "globalContentCategories": [
+            "gig"
+        ],
+        "ages": [
+            "age-4",
+            "age-5",
+            "age-6"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Cello & Guitar Duo Anja Lechner (GER) & Pablo Márquez (ARG)",
+        "startDate": "2025-06-05T16:00:00.000Z",
+        "location": {
+            "lat": 61.4966604,
+            "lng": 23.73994459999999
+        },
+        "globalContentCategories": [
+            "festivals",
+            "consert"
+        ],
+        "ages": [
+            "age-5",
+            "age-6"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Azúcar's summer salsa",
+        "startDate": "2025-06-05T16:00:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "dance",
+            "circus"
+        ],
+        "ages": [
+            "age-4",
+            "age-5",
+            "age-6"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Rulla's Circus Workshops 2025",
+        "startDate": "2025-06-06T07:00:00.000Z",
+        "location": {
+            "lat": 61.4988264,
+            "lng": 23.762119
+        },
+        "globalContentCategories": [
+            "dance",
+            "circus"
+        ],
+        "ages": [
+            "age-2"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Sydämesi on tärkeä",
+        "startDate": "2025-06-06T08:00:00.000Z",
+        "location": {
+            "lat": 61.4974843,
+            "lng": 23.7620308
+        },
+        "globalContentCategories": [
+            "tt_asuminen",
+            "tt_digitaidot",
+            "tt_erillaisuus_suvaitsevaisuus_vahemmistot",
+            "tt_kaverit_ihmissuhteet",
+            "tt_kotoutuminen_maahanmuutto",
+            "tt_paihteettomyys_riippuvuudet",
+            "tt_opiskelu_oppiminen",
+            "tt_mielen_hyvinvointi",
+            "tt_sairaudet",
+            "tt_talous_velka",
+            "tt_terveys_elintavat",
+            "tt_tyottomyys_tyollistyminen",
+            "tt_vammaisuus_liikuntarajoitteisuus"
+        ],
+        "ages": [
+            "age-6",
+            "age-5"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Pirkkalaistori Summer market Wednesdays",
+        "startDate": "2025-06-04T08:00:00.000Z",
+        "location": {
+            "lat": 61.477788,
+            "lng": 23.5128612
+        },
+        "globalContentCategories": [
+            "food and beverage",
+            "fairs",
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Rope speed dates",
+        "startDate": "2025-06-09T13:30:00.000Z",
+        "location": {
+            "lat": 61.49683269999999,
+            "lng": 23.77206929999999
+        },
+        "globalContentCategories": [
+            "tt_asuminen",
+            "tt_digitaidot",
+            "tt_erillaisuus_suvaitsevaisuus_vahemmistot",
+            "tt_kaverit_ihmissuhteet",
+            "tt_kotoutuminen_maahanmuutto",
+            "tt_paihteettomyys_riippuvuudet",
+            "tt_opiskelu_oppiminen",
+            "tt_mielen_hyvinvointi",
+            "tt_sairaudet",
+            "tt_talous_velka",
+            "tt_terveys_elintavat",
+            "tt_tyottomyys_tyollistyminen",
+            "tt_vammaisuus_liikuntarajoitteisuus",
+            "dance",
+            "circus"
+        ],
+        "ages": [
+            "age-5",
+            "age-6"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Q-Kafe",
+        "startDate": "2025-06-09T14:00:00.000Z",
+        "location": {
+            "lat": 61.4925205,
+            "lng": 23.7562308
+        },
+        "globalContentCategories": [
+            "tt_asuminen",
+            "tt_digitaidot",
+            "tt_erillaisuus_suvaitsevaisuus_vahemmistot",
+            "tt_kaverit_ihmissuhteet",
+            "tt_kotoutuminen_maahanmuutto",
+            "tt_paihteettomyys_riippuvuudet",
+            "tt_opiskelu_oppiminen",
+            "tt_mielen_hyvinvointi",
+            "tt_sairaudet",
+            "tt_talous_velka",
+            "tt_terveys_elintavat",
+            "tt_tyottomyys_tyollistyminen",
+            "tt_vammaisuus_liikuntarajoitteisuus",
+            "voluntary"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Pilates with Pride: Mat+",
+        "startDate": "2025-06-09T15:00:00.000Z",
+        "location": {
+            "lat": 61.498847233767776,
+            "lng": 23.785194549685507
+        },
+        "globalContentCategories": [
+            "tt_asuminen",
+            "tt_digitaidot",
+            "tt_erillaisuus_suvaitsevaisuus_vahemmistot",
+            "tt_kaverit_ihmissuhteet",
+            "tt_kotoutuminen_maahanmuutto",
+            "tt_paihteettomyys_riippuvuudet",
+            "tt_opiskelu_oppiminen",
+            "tt_mielen_hyvinvointi",
+            "tt_sairaudet",
+            "tt_talous_velka",
+            "tt_terveys_elintavat",
+            "tt_tyottomyys_tyollistyminen",
+            "tt_vammaisuus_liikuntarajoitteisuus"
+        ],
+        "ages": [
+            "age-5",
+            "age-4",
+            "age-6"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Oh Dear Body! Queer tantra on Pride week",
+        "startDate": "2025-06-09T15:00:00.000Z",
+        "location": {
+            "lat": 61.49871279999999,
+            "lng": 23.7542794
+        },
+        "globalContentCategories": [
+            "tt_asuminen",
+            "tt_digitaidot",
+            "tt_erillaisuus_suvaitsevaisuus_vahemmistot",
+            "tt_kaverit_ihmissuhteet",
+            "tt_kotoutuminen_maahanmuutto",
+            "tt_paihteettomyys_riippuvuudet",
+            "tt_opiskelu_oppiminen",
+            "tt_mielen_hyvinvointi",
+            "tt_sairaudet",
+            "tt_talous_velka",
+            "tt_terveys_elintavat",
+            "tt_tyottomyys_tyollistyminen",
+            "tt_vammaisuus_liikuntarajoitteisuus"
+        ],
+        "ages": [
+            "age-5"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Gender-sensitive swimming pool shift",
+        "startDate": "2025-06-09T15:00:00.000Z",
+        "location": {
+            "lat": 61.4923726,
+            "lng": 23.7562087
+        },
+        "globalContentCategories": [
+            "tt_asuminen",
+            "tt_digitaidot",
+            "tt_erillaisuus_suvaitsevaisuus_vahemmistot",
+            "tt_kaverit_ihmissuhteet",
+            "tt_kotoutuminen_maahanmuutto",
+            "tt_paihteettomyys_riippuvuudet",
+            "tt_opiskelu_oppiminen",
+            "tt_mielen_hyvinvointi",
+            "tt_sairaudet",
+            "tt_talous_velka",
+            "tt_terveys_elintavat",
+            "tt_tyottomyys_tyollistyminen",
+            "tt_vammaisuus_liikuntarajoitteisuus"
+        ],
+        "ages": [
+            "age-4",
+            "age-5",
+            "age-6"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Summer Park Concerts: Laikunlava Sings | Laulu-Siskot and sing-along",
+        "startDate": "2025-06-09T15:30:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Film screening: Solo (2023)",
+        "startDate": "2025-06-09T16:15:00.000Z",
+        "location": {
+            "lat": 61.4953835,
+            "lng": 23.7637295
+        },
+        "globalContentCategories": [
+            "movies"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Senior Day at the Tampere Art Museum",
+        "startDate": "2025-06-10T07:00:00.000Z",
+        "location": {
+            "lat": 61.4984925,
+            "lng": 23.7438104
+        },
+        "globalContentCategories": [
+            "activities",
+            "excursions, guided tours"
+        ],
+        "ages": [
+            "age-6"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Sinuiksi ry's open doors",
+        "startDate": "2025-06-10T09:00:00.000Z",
+        "location": {
+            "lat": 61.49202339999999,
+            "lng": 23.7557734
+        },
+        "globalContentCategories": [
+            "tt_asuminen",
+            "tt_digitaidot",
+            "tt_erillaisuus_suvaitsevaisuus_vahemmistot",
+            "tt_kaverit_ihmissuhteet",
+            "tt_kotoutuminen_maahanmuutto",
+            "tt_paihteettomyys_riippuvuudet",
+            "tt_opiskelu_oppiminen",
+            "tt_mielen_hyvinvointi",
+            "tt_sairaudet",
+            "tt_talous_velka",
+            "tt_terveys_elintavat",
+            "tt_tyottomyys_tyollistyminen",
+            "tt_vammaisuus_liikuntarajoitteisuus"
+        ],
+        "ages": [
+            "age-4",
+            "age-5",
+            "age-6"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Youth Manse Pride: Grilling + chilling",
+        "startDate": "2025-06-10T12:00:00.000Z",
+        "location": {
+            "lat": 61.50104049999999,
+            "lng": 23.7657317
+        },
+        "globalContentCategories": [
+            "festivals",
+            "tt_asuminen",
+            "tt_digitaidot",
+            "tt_erillaisuus_suvaitsevaisuus_vahemmistot",
+            "tt_kaverit_ihmissuhteet",
+            "tt_kotoutuminen_maahanmuutto",
+            "tt_paihteettomyys_riippuvuudet",
+            "tt_opiskelu_oppiminen",
+            "tt_mielen_hyvinvointi",
+            "tt_sairaudet",
+            "tt_talous_velka",
+            "tt_terveys_elintavat",
+            "tt_tyottomyys_tyollistyminen",
+            "tt_vammaisuus_liikuntarajoitteisuus"
+        ],
+        "ages": [
+            "age-3",
+            "age-4"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Pilates with Pride: Teen + Adult Reformer Pilates",
+        "startDate": "2025-06-10T12:30:00.000Z",
+        "location": {
+            "lat": 61.498847233767776,
+            "lng": 23.785194549685507
+        },
+        "globalContentCategories": [
+            "tt_asuminen",
+            "tt_digitaidot",
+            "tt_erillaisuus_suvaitsevaisuus_vahemmistot",
+            "tt_kaverit_ihmissuhteet",
+            "tt_kotoutuminen_maahanmuutto",
+            "tt_paihteettomyys_riippuvuudet",
+            "tt_opiskelu_oppiminen",
+            "tt_mielen_hyvinvointi",
+            "tt_sairaudet",
+            "tt_talous_velka",
+            "tt_terveys_elintavat",
+            "tt_tyottomyys_tyollistyminen",
+            "tt_vammaisuus_liikuntarajoitteisuus"
+        ],
+        "ages": [
+            "age-5",
+            "age-4",
+            "age-3"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Adults' Evening in Rulla",
+        "startDate": "2025-06-10T13:00:00.000Z",
+        "location": {
+            "lat": 61.4988264,
+            "lng": 23.762119
+        },
+        "globalContentCategories": [
+            "festivals",
+            "handicraft"
+        ],
+        "ages": [
+            "age-5"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Pride Flag Workshop 10.6. at. 16.30-20",
+        "startDate": "2025-06-10T13:30:00.000Z",
+        "location": {
+            "lat": 61.4996941,
+            "lng": 23.74853359999999
+        },
+        "globalContentCategories": [],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Discussion panel: Families under the rainbow, past and present",
+        "startDate": "2025-06-10T14:30:00.000Z",
+        "location": {
+            "lat": 61.5015878,
+            "lng": 23.75952389999999
+        },
+        "globalContentCategories": [
+            "seminars and meetings",
+            "seminars and meetings",
+            "students",
+            "tt_asuminen",
+            "tt_digitaidot",
+            "tt_erillaisuus_suvaitsevaisuus_vahemmistot",
+            "tt_kaverit_ihmissuhteet",
+            "tt_kotoutuminen_maahanmuutto",
+            "tt_paihteettomyys_riippuvuudet",
+            "tt_opiskelu_oppiminen",
+            "tt_mielen_hyvinvointi",
+            "tt_sairaudet",
+            "tt_talous_velka",
+            "tt_terveys_elintavat",
+            "tt_tyottomyys_tyollistyminen",
+            "tt_vammaisuus_liikuntarajoitteisuus"
+        ],
+        "ages": [
+            "age-4",
+            "age-5",
+            "age-6"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Rainbow History Walk",
+        "startDate": "2025-06-10T15:00:00.000Z",
+        "location": {
+            "lat": 61.4954216,
+            "lng": 23.761186
+        },
+        "globalContentCategories": [
+            "voluntary",
+            "activities",
+            "excursions, guided tours"
+        ],
+        "ages": [
+            "age-4",
+            "age-5",
+            "age-6"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Summer Park Concert Goes Pride: Elsi Sloan, Kiukkupussy & Narri Koira",
+        "startDate": "2025-06-10T16:00:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Tampere Vocal Music Festival",
+        "startDate": "2025-06-11T08:30:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "festivals",
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Free rapid HIV and syphilis testing",
+        "startDate": "2025-06-11T09:00:00.000Z",
+        "location": {
+            "lat": 61.49202339999999,
+            "lng": 23.7557734
+        },
+        "globalContentCategories": [
+            "tt_asuminen",
+            "tt_digitaidot",
+            "tt_erillaisuus_suvaitsevaisuus_vahemmistot",
+            "tt_kaverit_ihmissuhteet",
+            "tt_kotoutuminen_maahanmuutto",
+            "tt_paihteettomyys_riippuvuudet",
+            "tt_opiskelu_oppiminen",
+            "tt_mielen_hyvinvointi",
+            "tt_sairaudet",
+            "tt_talous_velka",
+            "tt_terveys_elintavat",
+            "tt_tyottomyys_tyollistyminen",
+            "tt_vammaisuus_liikuntarajoitteisuus"
+        ],
+        "ages": [
+            "age-5",
+            "age-6"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Nuorten Manse Pride: It's all about YOUth",
+        "startDate": "2025-06-11T12:00:00.000Z",
+        "location": {
+            "lat": 61.50097899999999,
+            "lng": 23.7657001
+        },
+        "globalContentCategories": [
+            "handicraft",
+            "fairs",
+            "voluntary"
+        ],
+        "ages": [
+            "age-4",
+            "age-3"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Queer Pub Quiz",
+        "startDate": "2025-06-11T14:00:00.000Z",
+        "location": {
+            "lat": 61.498432,
+            "lng": 23.7777731
+        },
+        "globalContentCategories": [],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Pilates with Pride: Reformer Pilates",
+        "startDate": "2025-06-11T15:00:00.000Z",
+        "location": {
+            "lat": 61.498847233767776,
+            "lng": 23.785194549685507
+        },
+        "globalContentCategories": [
+            "tt_asuminen",
+            "tt_digitaidot",
+            "tt_erillaisuus_suvaitsevaisuus_vahemmistot",
+            "tt_kaverit_ihmissuhteet",
+            "tt_kotoutuminen_maahanmuutto",
+            "tt_paihteettomyys_riippuvuudet",
+            "tt_opiskelu_oppiminen",
+            "tt_mielen_hyvinvointi",
+            "tt_sairaudet",
+            "tt_talous_velka",
+            "tt_terveys_elintavat",
+            "tt_tyottomyys_tyollistyminen",
+            "tt_vammaisuus_liikuntarajoitteisuus"
+        ],
+        "ages": [
+            "age-5",
+            "age-4",
+            "age-6"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Lempeä open mic",
+        "startDate": "2025-06-11T15:00:00.000Z",
+        "location": {
+            "lat": 61.4988264,
+            "lng": 23.762119
+        },
+        "globalContentCategories": [],
+        "ages": [
+            "age-4",
+            "age-5"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Tampere Film Festival Goes Manse Pride: Echoes of Brokeback Mountain",
+        "startDate": "2025-06-11T16:15:00.000Z",
+        "location": {
+            "lat": 61.4953835,
+            "lng": 23.7637295
+        },
+        "globalContentCategories": [
+            "movies"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Pilates with Pride: Lunch Reformer Pilates",
+        "startDate": "2025-06-12T08:00:00.000Z",
+        "location": {
+            "lat": 61.498847233767776,
+            "lng": 23.785194549685507
+        },
+        "globalContentCategories": [
+            "tt_asuminen",
+            "tt_digitaidot",
+            "tt_erillaisuus_suvaitsevaisuus_vahemmistot",
+            "tt_kaverit_ihmissuhteet",
+            "tt_kotoutuminen_maahanmuutto",
+            "tt_paihteettomyys_riippuvuudet",
+            "tt_opiskelu_oppiminen",
+            "tt_mielen_hyvinvointi",
+            "tt_sairaudet",
+            "tt_talous_velka",
+            "tt_terveys_elintavat",
+            "tt_tyottomyys_tyollistyminen",
+            "tt_vammaisuus_liikuntarajoitteisuus"
+        ],
+        "ages": [
+            "age-5",
+            "age-4",
+            "age-6"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Manse Pride workshop in the Main Library Metso",
+        "startDate": "2025-06-12T12:00:00.000Z",
+        "location": {
+            "lat": 61.4981872,
+            "lng": 23.7506002
+        },
+        "globalContentCategories": [
+            "literature"
+        ],
+        "ages": [
+            "age-4",
+            "age-5"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Youth Manse Pride: Gaymer's night",
+        "startDate": "2025-06-12T12:00:00.000Z",
+        "location": {
+            "lat": 61.50097899999999,
+            "lng": 23.7657001
+        },
+        "globalContentCategories": [
+            "festivals"
+        ],
+        "ages": [
+            "age-4",
+            "age-3"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Manse Pride knit graffiti in Sorsapuisto",
+        "startDate": "2025-06-12T12:00:00.000Z",
+        "location": {
+            "lat": 61.49683940000001,
+            "lng": 23.7813427
+        },
+        "globalContentCategories": [
+            "handicraft",
+            "voluntary"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Queer kinky picnic",
+        "startDate": "2025-06-12T13:00:00.000Z",
+        "location": {
+            "lat": 61.49683940000001,
+            "lng": 23.7813427
+        },
+        "globalContentCategories": [],
+        "ages": [
+            "age-5"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Repair Café",
+        "startDate": "2025-06-12T14:00:00.000Z",
+        "location": {
+            "lat": 61.4989197,
+            "lng": 23.7486952
+        },
+        "globalContentCategories": [
+            "handicraft",
+            "voluntary"
+        ],
+        "ages": [
+            "age-6",
+            "age-4",
+            "age-5"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Sinuiksi ry's 52nd anniversary celebration for members and those joining as members",
+        "startDate": "2025-06-12T16:00:00.000Z",
+        "location": {
+            "lat": 61.49912680000001,
+            "lng": 23.7789038
+        },
+        "globalContentCategories": [
+            "voluntary"
+        ],
+        "ages": [
+            "age-5"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Azúcar's summer salsa",
+        "startDate": "2025-06-12T16:00:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "dance",
+            "circus"
+        ],
+        "ages": [
+            "age-4",
+            "age-5",
+            "age-6"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Film screening: For Boys (2024)",
+        "startDate": "2025-06-12T16:15:00.000Z",
+        "location": {
+            "lat": 61.4953835,
+            "lng": 23.7637295
+        },
+        "globalContentCategories": [
+            "movies"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Pilates with Pride: Child + Adult Mat Pilates",
+        "startDate": "2025-06-13T08:00:00.000Z",
+        "location": {
+            "lat": 61.498847233767776,
+            "lng": 23.785194549685507
+        },
+        "globalContentCategories": [
+            "tt_asuminen",
+            "tt_digitaidot",
+            "tt_erillaisuus_suvaitsevaisuus_vahemmistot",
+            "tt_kaverit_ihmissuhteet",
+            "tt_kotoutuminen_maahanmuutto",
+            "tt_paihteettomyys_riippuvuudet",
+            "tt_opiskelu_oppiminen",
+            "tt_mielen_hyvinvointi",
+            "tt_sairaudet",
+            "tt_talous_velka",
+            "tt_terveys_elintavat",
+            "tt_tyottomyys_tyollistyminen",
+            "tt_vammaisuus_liikuntarajoitteisuus"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Youth Manse Pride: GRWM - Manse Pride 2025",
+        "startDate": "2025-06-13T12:00:00.000Z",
+        "location": {
+            "lat": 61.50097899999999,
+            "lng": 23.7657001
+        },
+        "globalContentCategories": [
+            "festivals"
+        ],
+        "ages": [
+            "age-4",
+            "age-3"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Music for a Summer Evening",
+        "startDate": "2025-06-13T15:00:00.000Z",
+        "location": {
+            "lat": 61.4988264,
+            "lng": 23.762119
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [
+            "age-6",
+            "age-5",
+            "age-4"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Rainbow History Walk",
+        "startDate": "2025-06-13T15:00:00.000Z",
+        "location": {
+            "lat": 61.4954216,
+            "lng": 23.761186
+        },
+        "globalContentCategories": [
+            "voluntary",
+            "activities",
+            "excursions, guided tours"
+        ],
+        "ages": [
+            "age-4",
+            "age-5",
+            "age-6"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Green bingo",
+        "startDate": "2025-06-13T15:00:00.000Z",
+        "location": {
+            "lat": 61.49429490000001,
+            "lng": 23.7679781
+        },
+        "globalContentCategories": [
+            "voluntary"
+        ],
+        "ages": [
+            "age-5",
+            "age-4"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Queer Spirituality",
+        "startDate": "2025-06-13T15:30:00.000Z",
+        "location": {
+            "lat": 61.49685719999999,
+            "lng": 23.7545701
+        },
+        "globalContentCategories": [
+            "festivals",
+            "tt_asuminen",
+            "tt_digitaidot",
+            "tt_erillaisuus_suvaitsevaisuus_vahemmistot",
+            "tt_kaverit_ihmissuhteet",
+            "tt_kotoutuminen_maahanmuutto",
+            "tt_paihteettomyys_riippuvuudet",
+            "tt_opiskelu_oppiminen",
+            "tt_mielen_hyvinvointi",
+            "tt_sairaudet",
+            "tt_talous_velka",
+            "tt_terveys_elintavat",
+            "tt_tyottomyys_tyollistyminen",
+            "tt_vammaisuus_liikuntarajoitteisuus"
+        ],
+        "ages": [
+            "age-5"
+        ],
+        "score": 40
+    },
+    {
+        "name": "LIVE-gigs / Kauris & Metsä-Annikki @ HAY Second Hand",
+        "startDate": "2025-06-13T16:00:00.000Z",
+        "location": {
+            "lat": 61.5005982,
+            "lng": 23.7682135
+        },
+        "globalContentCategories": [
+            "gig"
+        ],
+        "ages": [
+            "age-5",
+            "age-4"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Film screening: The Summer with Carmen (2023)",
+        "startDate": "2025-06-13T16:15:00.000Z",
+        "location": {
+            "lat": 61.4953835,
+            "lng": 23.7637295
+        },
+        "globalContentCategories": [
+            "movies"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Guided tour of the Old City Hall",
+        "startDate": "2025-06-16T14:00:00.000Z",
+        "location": {
+            "lat": 61.49806159999999,
+            "lng": 23.7594294
+        },
+        "globalContentCategories": [
+            "literature",
+            "museums and galleries",
+            "museums",
+            "exhibitions"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Summer Park Concerts: Laikunlava Sings | Kanerva-kuoro and sing-along",
+        "startDate": "2025-06-16T15:30:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Rakas Tampere: Shopping throughout the ages guided tour IN FINNISH",
+        "startDate": "2025-06-17T11:00:00.000Z",
+        "location": {
+            "lat": 61.4954216,
+            "lng": 23.761186
+        },
+        "globalContentCategories": [
+            "activities",
+            "excursions, guided tours"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Summer Park Concerts: Sorokoska ry, Huojuva Komppi, Hyvän ajan surut",
+        "startDate": "2025-06-18T15:00:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Midsummer 2025",
+        "startDate": "2025-06-19T11:00:00.000Z",
+        "location": {
+            "lat": 61.07270070000001,
+            "lng": 23.4050362
+        },
+        "globalContentCategories": [
+            "festivals",
+            "food and beverage"
+        ],
+        "ages": [
+            "age-4",
+            "age-5",
+            "age-6"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Azúcar's Midsummer Salsa",
+        "startDate": "2025-06-19T16:00:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "dance",
+            "circus"
+        ],
+        "ages": [
+            "age-4",
+            "age-5",
+            "age-6"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Summer Park Concerts: Laikunlava Sings | Tampereen Sisun laulajat and sing-along",
+        "startDate": "2025-06-23T15:30:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Summer Park Concerts: Bad Vision, Perhana plays Nirvana, Soundrun",
+        "startDate": "2025-06-25T15:00:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Azúcar's summer salsa Fiesta Dominicana",
+        "startDate": "2025-06-26T16:00:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "dance",
+            "circus"
+        ],
+        "ages": [
+            "age-4",
+            "age-5",
+            "age-6"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Pow - Cosmic Boogie",
+        "startDate": "2025-06-27T11:00:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "consert",
+            "gig"
+        ],
+        "ages": [
+            "age-5",
+            "age-4",
+            "age-6"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Summer Park Concerts: Laikunlava Sings | Duuris-kuoro and sing-along",
+        "startDate": "2025-06-30T15:30:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Summer Park Concerts: Solar Blue, SaintPolis, HAKA",
+        "startDate": "2025-07-02T15:00:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Art Walk",
+        "startDate": "2025-07-03T13:00:00.000Z",
+        "location": {
+            "lat": 61.497881,
+            "lng": 23.74587499999999
+        },
+        "globalContentCategories": [
+            "activities",
+            "excursions, guided tours"
+        ],
+        "ages": [
+            "age-5"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Tapahtuisipa kohta jotain mistä muut saa tulevaisuudessa lukea Wikipediasta yöllä kun ei saa unta",
+        "startDate": "2025-07-04T15:00:00.000Z",
+        "location": {
+            "lat": 61.50396698160202,
+            "lng": 23.741965306271812
+        },
+        "globalContentCategories": [
+            "theatre",
+            "dance",
+            "circus"
+        ],
+        "ages": [
+            "age-5",
+            "age-4"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Summer Park Concerts: Laikunlava Sings | Pikselit and sing-along",
+        "startDate": "2025-07-07T15:30:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Summer Park Concerts: The Jack Flash Band, LEVELLING THE LAND, Daniela Lila",
+        "startDate": "2025-07-09T15:00:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Katedraali.org: Riikka Viljakainen",
+        "startDate": "2025-07-10T16:00:00.000Z",
+        "location": {
+            "lat": 61.5025181,
+            "lng": 23.7698735
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Summer Park Concerts: Laikunlava Sings | Tuulantei-kuoro and sing-along",
+        "startDate": "2025-07-14T15:30:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Summer Park Concerts: P.O.M.O.Y., Frank Wienne Orchestra, Valley Nadir",
+        "startDate": "2025-07-16T15:00:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Cathedral.org: Ville Urponen",
+        "startDate": "2025-07-17T16:00:00.000Z",
+        "location": {
+            "lat": 61.5025181,
+            "lng": 23.7698735
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Vili Mustalampi @ Azúcar's summer salsa",
+        "startDate": "2025-07-17T16:00:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "consert",
+            "dance",
+            "circus"
+        ],
+        "ages": [
+            "age-4",
+            "age-5",
+            "age-6"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Summer Park Concerts: Laikunlava Sings | Kamarikuoro Camena and sing-along",
+        "startDate": "2025-07-21T15:30:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Summer Park Concerts: Shone Sam, Gneissi, Zen Wave",
+        "startDate": "2025-07-23T15:00:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Katedraali.org: Elias Niemelä, organ and Stefan Stanciu, pan flute",
+        "startDate": "2025-07-24T16:00:00.000Z",
+        "location": {
+            "lat": 61.5025181,
+            "lng": 23.7698735
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Summer Park Concerts: Laikunlava Sings | Taipumattomat and sing-along",
+        "startDate": "2025-07-28T15:30:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Summer Park Concerts: Luunyrkki, Carillo, APS4",
+        "startDate": "2025-07-30T15:00:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Cathedral.org: Jens Korndörfer",
+        "startDate": "2025-07-31T16:00:00.000Z",
+        "location": {
+            "lat": 61.5025181,
+            "lng": 23.7698735
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Summer Park Concerts: Laikunlava Sings | Suvantokuoro and sing-along",
+        "startDate": "2025-08-04T15:30:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Evening market and yard sale",
+        "startDate": "2025-08-07T14:00:00.000Z",
+        "location": {
+            "lat": 61.5034939,
+            "lng": 23.7540468
+        },
+        "globalContentCategories": [
+            "fairs",
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Summer Park Concerts: Laikunlava Sings | Tampereen Naislaulajat and sing-along",
+        "startDate": "2025-08-11T15:30:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Summer Park Concerts Extra: Dallapé",
+        "startDate": "2025-08-12T15:00:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "International IVV Olympiads 2025",
+        "startDate": "2025-08-14T06:00:00.000Z",
+        "location": {
+            "lat": 61.49767079999999,
+            "lng": 23.75993
+        },
+        "globalContentCategories": [
+            "sports and fitness",
+            "activities",
+            "excursions, guided tours",
+            "tt_asuminen",
+            "tt_digitaidot",
+            "tt_erillaisuus_suvaitsevaisuus_vahemmistot",
+            "tt_kaverit_ihmissuhteet",
+            "tt_kotoutuminen_maahanmuutto",
+            "tt_paihteettomyys_riippuvuudet",
+            "tt_opiskelu_oppiminen",
+            "tt_mielen_hyvinvointi",
+            "tt_sairaudet",
+            "tt_talous_velka",
+            "tt_terveys_elintavat",
+            "tt_tyottomyys_tyollistyminen",
+            "tt_vammaisuus_liikuntarajoitteisuus"
+        ],
+        "ages": [
+            "age-5",
+            "age-6",
+            "age-4"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Summer Park Concerts: Laikunlava Sings | Naiskuoro Miskantti and sing-along",
+        "startDate": "2025-08-18T15:30:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Summer Park Concerts: Mot Furu, Pekka Murto & Co., Lydian",
+        "startDate": "2025-08-20T15:00:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Glow Festival 2025",
+        "startDate": "2025-08-22T11:00:00.000Z",
+        "location": {
+            "lat": 61.4936273,
+            "lng": 23.7738686
+        },
+        "globalContentCategories": [
+            "festivals",
+            "consert"
+        ],
+        "ages": [
+            "age-4",
+            "age-5",
+            "age-6"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Quiet afternoon in the Moomin Museum",
+        "startDate": "2025-08-27T12:00:00.000Z",
+        "location": {
+            "lat": 61.49595300000001,
+            "lng": 23.781375
+        },
+        "globalContentCategories": [
+            "activities",
+            "excursions, guided tours"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Summer Park Concerts: Flaudient, Suden Hetki, Decreation",
+        "startDate": "2025-08-27T15:00:00.000Z",
+        "location": {
+            "lat": 61.499484908944474,
+            "lng": 23.761686380975043
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Wild herb and mushroom tours in English 2025",
+        "startDate": "2025-08-28T14:00:00.000Z",
+        "location": {
+            "lat": 61.4697642,
+            "lng": 23.8903981
+        },
+        "globalContentCategories": [
+            "nature and well-being",
+            "activities",
+            "excursions, guided tours",
+            "food and beverage"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Nightwish Yesterwynde Orchestral – Tampere Filharmonia",
+        "startDate": "2025-08-28T16:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Sing-along events at Culture House Laikku",
+        "startDate": "2025-09-04T13:15:00.000Z",
+        "location": {
+            "lat": 61.4988264,
+            "lng": 23.762119
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [
+            "age-5",
+            "age-6"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Tampere Philharmonic Orchestra: Season opening: Ode to Joy",
+        "startDate": "2025-09-04T16:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Tampere Philharmonic Orchestra: Verses of the Heart",
+        "startDate": "2025-09-12T16:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Tampere Philharmonic Orchestra: The Magic of Mozart",
+        "startDate": "2025-09-19T16:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Tampere Philharmonic Orchestra: In the Embrace of Rosenkavalier",
+        "startDate": "2025-09-26T16:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Tampere Philharmonic Orchestra: Echoes of Kalevala",
+        "startDate": "2025-10-03T16:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Tampere Philharmonic Orchestra: King of the French Horn",
+        "startDate": "2025-10-10T16:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Prokofiev: Cinderella",
+        "startDate": "2025-11-21T16:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Tanssiteatteri MD: Aliveness",
+        "startDate": "2025-12-09T16:00:00.000Z",
+        "location": {
+            "lat": 61.4971404,
+            "lng": 23.7560099
+        },
+        "globalContentCategories": [
+            "dance",
+            "circus",
+            "theatre"
+        ],
+        "ages": [
+            "age-4",
+            "age-5",
+            "age-6"
+        ],
+        "score": 40
+    },
+    {
+        "name": "Tampere Philharmonic Orchestra: Season series concert",
+        "startDate": "2026-04-02T16:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Tampere Philharmonic Orchestra: Season series concert",
+        "startDate": "2026-04-17T16:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Tampere Philharmonic Orchestra: Season series concert",
+        "startDate": "2026-04-24T16:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Tampere Philharmonic Orchestra: Season series concert",
+        "startDate": "2026-05-08T16:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Tampere Philharmonic Orchestra: Season series concert",
+        "startDate": "2026-05-21T16:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Tampere Philharmonic Orchestra: Season series concert",
+        "startDate": "2026-05-28T16:00:00.000Z",
+        "location": {
+            "lat": 61.4959526,
+            "lng": 23.7813754
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 40
+    },
+    {
+        "name": "Sarkia Museum open doors",
+        "startDate": "2025-06-07T09:00:00.000Z",
+        "location": {
+            "lat": 61.3197949,
+            "lng": 22.824461
+        },
+        "globalContentCategories": [
+            "museums and galleries",
+            "museums",
+            "exhibitions",
+            "literature",
+            "activities",
+            "excursions, guided tours"
+        ],
+        "ages": [
+            "age-4",
+            "age-5",
+            "age-6"
+        ],
+        "score": 20
+    },
+    {
+        "name": "Summer Park Concerts: Tampereen vpk:n puhallinorkesteri",
+        "startDate": "2025-06-08T10:00:00.000Z",
+        "location": {
+            "lat": 61.51979509999999,
+            "lng": 23.8922355
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 20
+    },
+    {
+        "name": "Smoke ritual (Finnish sauna week)",
+        "startDate": "2025-06-10T18:00:00.000Z",
+        "location": {
+            "lat": 61.51548539999999,
+            "lng": 23.7852902
+        },
+        "globalContentCategories": [
+            "tt_asuminen",
+            "tt_digitaidot",
+            "tt_erillaisuus_suvaitsevaisuus_vahemmistot",
+            "tt_kaverit_ihmissuhteet",
+            "tt_kotoutuminen_maahanmuutto",
+            "tt_paihteettomyys_riippuvuudet",
+            "tt_opiskelu_oppiminen",
+            "tt_mielen_hyvinvointi",
+            "tt_sairaudet",
+            "tt_talous_velka",
+            "tt_terveys_elintavat",
+            "tt_tyottomyys_tyollistyminen",
+            "tt_vammaisuus_liikuntarajoitteisuus"
+        ],
+        "ages": [
+            "age-4",
+            "age-5",
+            "age-6"
+        ],
+        "score": 20
+    },
+    {
+        "name": "Flying Finn Tour - TamUA",
+        "startDate": "2025-06-14T08:00:00.000Z",
+        "location": {
+            "lat": 61.52836060000001,
+            "lng": 23.6360003
+        },
+        "globalContentCategories": [
+            "museums and galleries",
+            "museums",
+            "exhibitions",
+            "sports and fitness"
+        ],
+        "ages": [
+            "age-3",
+            "age-4",
+            "age-2",
+            "age-5"
+        ],
+        "score": 20
+    },
+    {
+        "name": "Finnish Sauna Day (Finnish Sauna Week)",
+        "startDate": "2025-06-14T13:00:00.000Z",
+        "location": {
+            "lat": 61.51548539999999,
+            "lng": 23.7852902
+        },
+        "globalContentCategories": [
+            "tt_asuminen",
+            "tt_digitaidot",
+            "tt_erillaisuus_suvaitsevaisuus_vahemmistot",
+            "tt_kaverit_ihmissuhteet",
+            "tt_kotoutuminen_maahanmuutto",
+            "tt_paihteettomyys_riippuvuudet",
+            "tt_opiskelu_oppiminen",
+            "tt_mielen_hyvinvointi",
+            "tt_sairaudet",
+            "tt_talous_velka",
+            "tt_terveys_elintavat",
+            "tt_tyottomyys_tyollistyminen",
+            "tt_vammaisuus_liikuntarajoitteisuus",
+            "nature and well-being"
+        ],
+        "ages": [
+            "age-4",
+            "age-5",
+            "age-6"
+        ],
+        "score": 20
+    },
+    {
+        "name": "Whisking Sunday (Finnish Sauna Week)",
+        "startDate": "2025-06-15T09:00:00.000Z",
+        "location": {
+            "lat": 61.51548539999999,
+            "lng": 23.7852902
+        },
+        "globalContentCategories": [
+            "tt_asuminen",
+            "tt_digitaidot",
+            "tt_erillaisuus_suvaitsevaisuus_vahemmistot",
+            "tt_kaverit_ihmissuhteet",
+            "tt_kotoutuminen_maahanmuutto",
+            "tt_paihteettomyys_riippuvuudet",
+            "tt_opiskelu_oppiminen",
+            "tt_mielen_hyvinvointi",
+            "tt_sairaudet",
+            "tt_talous_velka",
+            "tt_terveys_elintavat",
+            "tt_tyottomyys_tyollistyminen",
+            "tt_vammaisuus_liikuntarajoitteisuus",
+            "nature and well-being"
+        ],
+        "ages": [
+            "age-4",
+            "age-5",
+            "age-6"
+        ],
+        "score": 20
+    },
+    {
+        "name": "Hiedanranta - A city district of the future full of history",
+        "startDate": "2025-06-28T10:00:00.000Z",
+        "location": {
+            "lat": 61.51659657234287,
+            "lng": 23.685386904454003
+        },
+        "globalContentCategories": [],
+        "ages": [],
+        "score": 20
+    },
+    {
+        "name": "Summer Park Concerts: Kotikylän Harmonikat",
+        "startDate": "2025-07-06T10:00:00.000Z",
+        "location": {
+            "lat": 61.51979509999999,
+            "lng": 23.8922355
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 20
+    },
+    {
+        "name": "Nokia Pride park party and procession",
+        "startDate": "2025-07-12T11:00:00.000Z",
+        "location": {
+            "lat": 61.47972109999999,
+            "lng": 23.511793
+        },
+        "globalContentCategories": [
+            "festivals",
+            "voluntary"
+        ],
+        "ages": [
+            "age-4",
+            "age-5",
+            "age-3"
+        ],
+        "score": 20
+    },
+    {
+        "name": "Nokia Pride evening party for adults 2025",
+        "startDate": "2025-07-12T17:00:00.000Z",
+        "location": {
+            "lat": 61.47349149999999,
+            "lng": 23.5027351
+        },
+        "globalContentCategories": [
+            "festivals",
+            "gig",
+            "dance",
+            "circus"
+        ],
+        "ages": [
+            "age-5"
+        ],
+        "score": 20
+    },
+    {
+        "name": "Raw and Groowy -tour",
+        "startDate": "2025-07-18T17:00:00.000Z",
+        "location": {
+            "lat": 61.50460750000001,
+            "lng": 23.711748
+        },
+        "globalContentCategories": [],
+        "ages": [
+            "age-4",
+            "age-5",
+            "age-6"
+        ],
+        "score": 20
+    },
+    {
+        "name": "Hiedanranta's outdoor movie - The Shawshank Redemption",
+        "startDate": "2025-08-07T19:00:00.000Z",
+        "location": {
+            "lat": 61.51647166228276,
+            "lng": 23.684129736574285
+        },
+        "globalContentCategories": [
+            "movies"
+        ],
+        "ages": [],
+        "score": 20
+    },
+    {
+        "name": "Hiedanranta's outdoor movie - Bodyguard",
+        "startDate": "2025-08-08T19:00:00.000Z",
+        "location": {
+            "lat": 61.51647166228276,
+            "lng": 23.684129736574285
+        },
+        "globalContentCategories": [
+            "movies",
+            "festivals"
+        ],
+        "ages": [],
+        "score": 20
+    },
+    {
+        "name": "Hiedanranta's outdoor movie - Tyttö sinä olet tähti",
+        "startDate": "2025-08-09T19:00:00.000Z",
+        "location": {
+            "lat": 61.51647166228276,
+            "lng": 23.684129736574285
+        },
+        "globalContentCategories": [
+            "movies"
+        ],
+        "ages": [],
+        "score": 20
+    },
+    {
+        "name": "Moomin and emotions - experiential shadow theater workshop",
+        "startDate": "2025-10-04T10:00:00.000Z",
+        "location": {
+            "lat": 61.50536520000001,
+            "lng": 23.6261726
+        },
+        "globalContentCategories": [
+            "theatre",
+            "literature",
+            "kids and family"
+        ],
+        "ages": [
+            "age-1",
+            "age-2"
+        ],
+        "score": 20
+    },
+    {
+        "name": "Moomin and emotions - experiential shadow theater workshop",
+        "startDate": "2025-11-09T13:00:00.000Z",
+        "location": {
+            "lat": 61.4697426,
+            "lng": 23.8904216
+        },
+        "globalContentCategories": [
+            "theatre",
+            "kids and family"
+        ],
+        "ages": [
+            "age-2",
+            "age-1"
+        ],
+        "score": 20
+    },
+    {
+        "name": "Suomen Kädentaidot 2025 - Friday",
+        "startDate": "2025-11-13T22:00:00.000Z",
+        "location": {
+            "lat": 61.46345,
+            "lng": 23.72916
+        },
+        "globalContentCategories": [
+            "kids and family",
+            "fairs"
+        ],
+        "ages": [],
+        "score": 20
+    },
+    {
+        "name": "Suomen Kädentaidot 2025 - Saturday",
+        "startDate": "2025-11-14T22:00:00.000Z",
+        "location": {
+            "lat": 61.46345,
+            "lng": 23.72916
+        },
+        "globalContentCategories": [
+            "kids and family",
+            "fairs"
+        ],
+        "ages": [],
+        "score": 20
+    },
+    {
+        "name": "Suomen Kädentaidot 2025 - Sunday",
+        "startDate": "2025-11-15T22:00:00.000Z",
+        "location": {
+            "lat": 61.46345,
+            "lng": 23.72916
+        },
+        "globalContentCategories": [
+            "kids and family",
+            "fairs"
+        ],
+        "ages": [],
+        "score": 20
+    },
+    {
+        "name": "Hydrogen Summit & Expo 2026",
+        "startDate": "2026-01-13T22:00:00.000Z",
+        "location": {
+            "lat": 61.4641863,
+            "lng": 23.73187459999999
+        },
+        "globalContentCategories": [
+            "fairs",
+            "entrepreneurs"
+        ],
+        "ages": [
+            "age-5"
+        ],
+        "score": 20
+    },
+    {
+        "name": "Tampere Wedding & Celebration Exhibition",
+        "startDate": "2026-01-30T22:00:00.000Z",
+        "location": {
+            "lat": 61.4641863,
+            "lng": 23.73187459999999
+        },
+        "globalContentCategories": [
+            "fairs",
+            "tt_asuminen",
+            "tt_digitaidot",
+            "tt_erillaisuus_suvaitsevaisuus_vahemmistot",
+            "tt_kaverit_ihmissuhteet",
+            "tt_kotoutuminen_maahanmuutto",
+            "tt_paihteettomyys_riippuvuudet",
+            "tt_opiskelu_oppiminen",
+            "tt_mielen_hyvinvointi",
+            "tt_sairaudet",
+            "tt_talous_velka",
+            "tt_terveys_elintavat",
+            "tt_tyottomyys_tyollistyminen",
+            "tt_vammaisuus_liikuntarajoitteisuus"
+        ],
+        "ages": [
+            "age-5"
+        ],
+        "score": 20
+    },
+    {
+        "name": "3D Expo 2026",
+        "startDate": "2026-03-16T22:00:00.000Z",
+        "location": {
+            "lat": 61.4641863,
+            "lng": 23.73187459999999
+        },
+        "globalContentCategories": [
+            "fairs",
+            "entrepreneurs"
+        ],
+        "ages": [
+            "age-5"
+        ],
+        "score": 20
+    },
+    {
+        "name": "EuroSafety 2026",
+        "startDate": "2026-09-07T21:00:00.000Z",
+        "location": {
+            "lat": 61.4641863,
+            "lng": 23.73187459999999
+        },
+        "globalContentCategories": [
+            "fairs",
+            "entrepreneurs"
+        ],
+        "ages": [
+            "age-5"
+        ],
+        "score": 20
+    },
+    {
+        "name": "Logistiikka 2026",
+        "startDate": "2026-09-08T21:00:00.000Z",
+        "location": {
+            "lat": 61.4641863,
+            "lng": 23.73187459999999
+        },
+        "globalContentCategories": [
+            "fairs",
+            "entrepreneurs"
+        ],
+        "ages": [
+            "age-5"
+        ],
+        "score": 20
+    },
+    {
+        "name": "Leather workhop at Hiedanrannan Paja, Katutaso-shop",
+        "startDate": "2025-06-05T09:00:00.000Z",
+        "location": {
+            "lat": 61.5168525,
+            "lng": 23.6847724
+        },
+        "globalContentCategories": [
+            "handicraft"
+        ],
+        "ages": [
+            "age-5",
+            "age-4",
+            "age-3"
+        ],
+        "score": 0
+    },
+    {
+        "name": "Sound tech workshop",
+        "startDate": "2025-06-05T13:30:00.000Z",
+        "location": {
+            "lat": 61.499362,
+            "lng": 23.7139393
+        },
+        "globalContentCategories": [
+            "seminars and meetings",
+            "students",
+            "gig"
+        ],
+        "ages": [
+            "age-3",
+            "age-4",
+            "age-5"
+        ],
+        "score": 0
+    },
+    {
+        "name": "Pilot of the multi-arts course \"Time Travel in Haihara\" for seniors",
+        "startDate": "2025-06-06T07:00:00.000Z",
+        "location": {
+            "lat": 61.4697426,
+            "lng": 23.8904216
+        },
+        "globalContentCategories": [
+            "theatre"
+        ],
+        "ages": [
+            "age-6"
+        ],
+        "score": 0
+    },
+    {
+        "name": "Voimistelupäivät 2025",
+        "startDate": "2025-06-06T08:00:00.000Z",
+        "location": {
+            "lat": 61.4642667,
+            "lng": 23.7319531
+        },
+        "globalContentCategories": [
+            "sports and fitness"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Summer Park Concerts: Ahjolan Harmonikat",
+        "startDate": "2025-06-10T15:00:00.000Z",
+        "location": {
+            "lat": 61.4999433,
+            "lng": 23.6658183
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Children's Art Workshops in Haihara",
+        "startDate": "2025-06-11T09:00:00.000Z",
+        "location": {
+            "lat": 61.4697426,
+            "lng": 23.8904216
+        },
+        "globalContentCategories": [
+            "handicraft",
+            "nature and well-being"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Hirvipride",
+        "startDate": "2025-06-11T12:00:00.000Z",
+        "location": {
+            "lat": 61.499362,
+            "lng": 23.7139393
+        },
+        "globalContentCategories": [
+            "festivals",
+            "gig",
+            "voluntary"
+        ],
+        "ages": [
+            "age-4",
+            "age-5"
+        ],
+        "score": 0
+    },
+    {
+        "name": "Lotta Maija concert at Saunatemple (Finnish sauna week)",
+        "startDate": "2025-06-11T14:00:00.000Z",
+        "location": {
+            "lat": 61.51548539999999,
+            "lng": 23.7852902
+        },
+        "globalContentCategories": [
+            "gig",
+            "tt_asuminen",
+            "tt_digitaidot",
+            "tt_erillaisuus_suvaitsevaisuus_vahemmistot",
+            "tt_kaverit_ihmissuhteet",
+            "tt_kotoutuminen_maahanmuutto",
+            "tt_paihteettomyys_riippuvuudet",
+            "tt_opiskelu_oppiminen",
+            "tt_mielen_hyvinvointi",
+            "tt_sairaudet",
+            "tt_talous_velka",
+            "tt_terveys_elintavat",
+            "tt_tyottomyys_tyollistyminen",
+            "tt_vammaisuus_liikuntarajoitteisuus"
+        ],
+        "ages": [
+            "age-4",
+            "age-5",
+            "age-6"
+        ],
+        "score": 0
+    },
+    {
+        "name": "Summer Park Concerts: Duo Primadonnat",
+        "startDate": "2025-06-11T15:00:00.000Z",
+        "location": {
+            "lat": 61.4697426,
+            "lng": 23.8904216
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "MansePride Scrimmage",
+        "startDate": "2025-06-11T16:00:00.000Z",
+        "location": {
+            "lat": 61.5080459,
+            "lng": 23.8083578
+        },
+        "globalContentCategories": [
+            "sports and fitness"
+        ],
+        "ages": [
+            "age-4",
+            "age-5"
+        ],
+        "score": 0
+    },
+    {
+        "name": "Summer Park Concerts: Kalle Salo, HIPPIJUHLA",
+        "startDate": "2025-06-12T15:00:00.000Z",
+        "location": {
+            "lat": 61.5160985,
+            "lng": 23.6864171
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Miesten Kolmonen: Nokian Palloseura - TP-T",
+        "startDate": "2025-06-12T16:00:00.000Z",
+        "location": {
+            "lat": 61.4821421,
+            "lng": 23.5241987
+        },
+        "globalContentCategories": [
+            "sports and fitness"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Finnish MZ riders' international meeting 2025",
+        "startDate": "2025-06-13T09:00:00.000Z",
+        "location": {
+            "lat": 61.07270070000001,
+            "lng": 23.4050362
+        },
+        "globalContentCategories": [
+            "seminars and meetings"
+        ],
+        "ages": [
+            "age-5",
+            "age-6",
+            "age-4"
+        ],
+        "score": 0
+    },
+    {
+        "name": "Canoeing & Löyly (Finnish sauna week)",
+        "startDate": "2025-06-13T14:00:00.000Z",
+        "location": {
+            "lat": 61.51548539999999,
+            "lng": 23.7852902
+        },
+        "globalContentCategories": [
+            "festivals",
+            "activities",
+            "excursions, guided tours",
+            "tt_asuminen",
+            "tt_digitaidot",
+            "tt_erillaisuus_suvaitsevaisuus_vahemmistot",
+            "tt_kaverit_ihmissuhteet",
+            "tt_kotoutuminen_maahanmuutto",
+            "tt_paihteettomyys_riippuvuudet",
+            "tt_opiskelu_oppiminen",
+            "tt_mielen_hyvinvointi",
+            "tt_sairaudet",
+            "tt_talous_velka",
+            "tt_terveys_elintavat",
+            "tt_tyottomyys_tyollistyminen",
+            "tt_vammaisuus_liikuntarajoitteisuus"
+        ],
+        "ages": [
+            "age-4",
+            "age-5",
+            "age-6"
+        ],
+        "score": 0
+    },
+    {
+        "name": "Dreams of Culture - A week full of events",
+        "startDate": "2025-06-16T07:00:00.000Z",
+        "location": {
+            "lat": 61.4506297,
+            "lng": 23.8484435
+        },
+        "globalContentCategories": [
+            "festivals"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Summer Park Concerts: Sellopirkanmaa Ensemble",
+        "startDate": "2025-06-17T15:00:00.000Z",
+        "location": {
+            "lat": 61.50335539999999,
+            "lng": 23.8026905
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Relaxing sound journey",
+        "startDate": "2025-06-17T16:15:00.000Z",
+        "location": {
+            "lat": 61.5214593,
+            "lng": 23.6873269
+        },
+        "globalContentCategories": [
+            "tt_asuminen",
+            "tt_digitaidot",
+            "tt_erillaisuus_suvaitsevaisuus_vahemmistot",
+            "tt_kaverit_ihmissuhteet",
+            "tt_kotoutuminen_maahanmuutto",
+            "tt_paihteettomyys_riippuvuudet",
+            "tt_opiskelu_oppiminen",
+            "tt_mielen_hyvinvointi",
+            "tt_sairaudet",
+            "tt_talous_velka",
+            "tt_terveys_elintavat",
+            "tt_tyottomyys_tyollistyminen",
+            "tt_vammaisuus_liikuntarajoitteisuus",
+            "consert"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Summer Park Concerts: Anton V. Kivi",
+        "startDate": "2025-06-18T15:00:00.000Z",
+        "location": {
+            "lat": 61.4697426,
+            "lng": 23.8904216
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Summer Park Concerts: Kolmas Painos Vocal Group",
+        "startDate": "2025-06-18T15:00:00.000Z",
+        "location": {
+            "lat": 61.4789936,
+            "lng": 23.8140176
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Summer Park Concerts: Papa Reino & Hurja-Jussi",
+        "startDate": "2025-06-25T15:00:00.000Z",
+        "location": {
+            "lat": 61.4697426,
+            "lng": 23.8904216
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Summer Park Concerts: Lempivärit, Jäätelökone",
+        "startDate": "2025-06-26T15:00:00.000Z",
+        "location": {
+            "lat": 61.5160985,
+            "lng": 23.6864171
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Summer Park Concerts: Tampereen rautatieläisten soittokunta ry",
+        "startDate": "2025-07-01T15:00:00.000Z",
+        "location": {
+            "lat": 61.4999433,
+            "lng": 23.6658183
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Relaxing sound journey",
+        "startDate": "2025-07-01T16:15:00.000Z",
+        "location": {
+            "lat": 61.5214593,
+            "lng": 23.6873269
+        },
+        "globalContentCategories": [
+            "tt_asuminen",
+            "tt_digitaidot",
+            "tt_erillaisuus_suvaitsevaisuus_vahemmistot",
+            "tt_kaverit_ihmissuhteet",
+            "tt_kotoutuminen_maahanmuutto",
+            "tt_paihteettomyys_riippuvuudet",
+            "tt_opiskelu_oppiminen",
+            "tt_mielen_hyvinvointi",
+            "tt_sairaudet",
+            "tt_talous_velka",
+            "tt_terveys_elintavat",
+            "tt_tyottomyys_tyollistyminen",
+            "tt_vammaisuus_liikuntarajoitteisuus",
+            "consert"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Haihara Summer Wednesdays",
+        "startDate": "2025-07-02T12:00:00.000Z",
+        "location": {
+            "lat": 61.4697426,
+            "lng": 23.8904216
+        },
+        "globalContentCategories": [
+            "festivals"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Summer Park Concerts: Raija & Toonika",
+        "startDate": "2025-07-02T15:00:00.000Z",
+        "location": {
+            "lat": 61.4697426,
+            "lng": 23.8904216
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Summer Park Concerts: Amilos",
+        "startDate": "2025-07-09T15:00:00.000Z",
+        "location": {
+            "lat": 61.4697426,
+            "lng": 23.8904216
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Summer Park Concerts: Duo Käk', Tuukka Hämäläinen",
+        "startDate": "2025-07-10T15:00:00.000Z",
+        "location": {
+            "lat": 61.5160985,
+            "lng": 23.6864171
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Relaxing sound journey",
+        "startDate": "2025-07-15T16:15:00.000Z",
+        "location": {
+            "lat": 61.5214593,
+            "lng": 23.6873269
+        },
+        "globalContentCategories": [
+            "tt_asuminen",
+            "tt_digitaidot",
+            "tt_erillaisuus_suvaitsevaisuus_vahemmistot",
+            "tt_kaverit_ihmissuhteet",
+            "tt_kotoutuminen_maahanmuutto",
+            "tt_paihteettomyys_riippuvuudet",
+            "tt_opiskelu_oppiminen",
+            "tt_mielen_hyvinvointi",
+            "tt_sairaudet",
+            "tt_talous_velka",
+            "tt_terveys_elintavat",
+            "tt_tyottomyys_tyollistyminen",
+            "tt_vammaisuus_liikuntarajoitteisuus",
+            "consert"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Summer Park Concerts: Duo Pamela & Piia Kristiina",
+        "startDate": "2025-07-16T15:00:00.000Z",
+        "location": {
+            "lat": 61.4697426,
+            "lng": 23.8904216
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Summer Park Concerts: Duo Kajo",
+        "startDate": "2025-07-22T15:00:00.000Z",
+        "location": {
+            "lat": 61.50335539999999,
+            "lng": 23.8026905
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Summer Park Concerts: Pirkkalan Pelimannit",
+        "startDate": "2025-07-23T15:00:00.000Z",
+        "location": {
+            "lat": 61.4697426,
+            "lng": 23.8904216
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Summer Park Concerts: Mikko Laine, Duo Väreet",
+        "startDate": "2025-07-24T15:00:00.000Z",
+        "location": {
+            "lat": 61.5160985,
+            "lng": 23.6864171
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Relaxing sound journey",
+        "startDate": "2025-07-29T16:15:00.000Z",
+        "location": {
+            "lat": 61.5214593,
+            "lng": 23.6873269
+        },
+        "globalContentCategories": [
+            "tt_asuminen",
+            "tt_digitaidot",
+            "tt_erillaisuus_suvaitsevaisuus_vahemmistot",
+            "tt_kaverit_ihmissuhteet",
+            "tt_kotoutuminen_maahanmuutto",
+            "tt_paihteettomyys_riippuvuudet",
+            "tt_opiskelu_oppiminen",
+            "tt_mielen_hyvinvointi",
+            "tt_sairaudet",
+            "tt_talous_velka",
+            "tt_terveys_elintavat",
+            "tt_tyottomyys_tyollistyminen",
+            "tt_vammaisuus_liikuntarajoitteisuus",
+            "consert"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Summer Park Concerts: Uudet Härmälän Pelimannit",
+        "startDate": "2025-08-06T15:00:00.000Z",
+        "location": {
+            "lat": 61.4697426,
+            "lng": 23.8904216
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Summer Park Concerts: Jetco Duo",
+        "startDate": "2025-08-06T15:00:00.000Z",
+        "location": {
+            "lat": 61.4789936,
+            "lng": 23.8140176
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Summer Park Concerts: Luova Laura, Kuollut Piimä",
+        "startDate": "2025-08-07T15:00:00.000Z",
+        "location": {
+            "lat": 61.5160985,
+            "lng": 23.6864171
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Summer Park Concerts: Aukea Ensemble",
+        "startDate": "2025-08-13T15:00:00.000Z",
+        "location": {
+            "lat": 61.4697426,
+            "lng": 23.8904216
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Summer Park Concerts: Duo Kikka Salmi and Elena Kurgi",
+        "startDate": "2025-08-20T15:00:00.000Z",
+        "location": {
+            "lat": 61.4697426,
+            "lng": 23.8904216
+        },
+        "globalContentCategories": [
+            "consert"
+        ],
+        "ages": [],
+        "score": 0
+    },
+    {
+        "name": "Peeks into the Dancing Moominvalley",
+        "startDate": "2025-10-10T07:00:00.000Z",
+        "location": {
+            "lat": 61.47077549999999,
+            "lng": 23.7968243
+        },
+        "globalContentCategories": [
+            "dance",
+            "circus",
+            "literature",
+            "kids and family"
+        ],
+        "ages": [
+            "age-1",
+            "age-2"
+        ],
+        "score": 0
+    },
+    {
+        "name": "Moomin and emotions - experiential shadow theater workshop",
+        "startDate": "2025-11-04T07:30:00.000Z",
+        "location": {
+            "lat": 61.47008239999999,
+            "lng": 23.8720148
+        },
+        "globalContentCategories": [
+            "theatre",
+            "literature",
+            "kids and family"
+        ],
+        "ages": [
+            "age-1",
+            "age-2"
+        ],
+        "score": 0
+    },
+    {
+        "name": "Moomin and emotions - experiential shadow theater workshop",
+        "startDate": "2025-11-18T08:00:00.000Z",
+        "location": {
+            "lat": 61.51995299999999,
+            "lng": 23.66912079999999
+        },
+        "globalContentCategories": [
+            "theatre",
+            "literature",
+            "kids and family"
+        ],
+        "ages": [
+            "age-1",
+            "age-2"
+        ],
+        "score": 0
+    }
+]
