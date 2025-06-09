@@ -36,6 +36,11 @@ available_spots_nearby = 3
 # Prepare a list to store results
 scored_events = []
 
+# Constants for normalization
+MAX_SCORE = 350  # Based on previous calculation
+
+today = datetime.now()
+
 # Test scoring
 for event in events:
     try:
@@ -46,15 +51,19 @@ for event in events:
             print(f"Skipping event due to missing start or end date: {event.get('name', 'Unknown')}")
             continue
 
-        if not event.get('locations'):
+        locations = event.get('locations')
+        if not locations or len(locations) == 0:
             print(f"Skipping event due to missing location: {event.get('name', 'Unknown')}")
             continue
 
         event_location = {
-            'lat': event['locations'][0].get('lat'),
-            'lng': event['locations'][0].get('lng'),
-            'address': event['locations'][0].get('address')
+            'lat': locations[0].get('lat'),
+            'lng': locations[0].get('lng'),
+            'address': locations[0].get('address')
         }
+
+
+        venue = event['locations'][0].get('address')
 
         event_data = {
             'name': event.get('name', 'No Name'),
@@ -62,15 +71,28 @@ for event in events:
             'defaultStartDate': startDate,
             'defaultEndDate': endDate,
             'event': event.get('event', {}),
-            'locations': event.get('locations', []),
+            'location': event_location,
             'categories': event.get('categories', []),
             'globalContentCategories': event.get('globalContentCategories', []),
             'ages': event.get('ages', []),
             'countViews': event.get('countViews', 0)
         }
 
+        # New Additional Fields
+        contact_email = event.get('email')
+        event_image = event.get('mainImage', {}).get('imageURL')
+        social_links = {
+            'facebook': event.get('urlFacebook'),
+            'instagram': event.get('urlInstagram'),
+            'twitter': event.get('urlTwitter')
+        }
+        event_description = event.get('descriptionShort')
+
         # Audience
         audience_type = map_age_groups(event_data['ages'])
+
+        event_start_dt = datetime.fromisoformat(event_data['defaultStartDate'].replace('Z', ''))
+        days_to_event = (event_start_dt - today).days
 
         # Derived values
         day_type = 'weekend' if is_weekend(event_data['defaultStartDate']) else 'weekday'
@@ -96,33 +118,61 @@ for event in events:
             print(f"Skipping event due to invalid score: {event_data['name']}")
             continue
 
-        scored_events.append({
+        normalized_score = round((score / MAX_SCORE) * 100, 2)
+
+        # Build Left Panel Data
+        left_panel_data = {
+            'eventName': event_data['name'],
+            'venue': venue,
+            'startDate': event_data['defaultStartDate'],
+            'endDate': event_data['defaultEndDate'],
+            'eventType': event_data['globalContentCategories'],
+            'score': score,
+            'normalizedScore': normalized_score,
+            'dayType': day_type,
+            'timeOfDay': time_of_day,
+            'views': event_data['countViews'],
+            'audienceType': audience_type,
+            'daysToEvent': days_to_event,
+            'peakFootTraffic': 'N/A',  # Placeholder for now
+            'weather': 'N/A',  # Placeholder for now
+        }
+
+        # Build Full Event Data
+        full_event_data = {
             'name': event_data['name'],
             'startDate': event_data['defaultStartDate'],
             'endDate': event_data['defaultEndDate'],
             'score': score,
+            'normalizedScore': normalized_score,
             'scoreBreakdown': breakdown,
             'views': event_data['countViews'],
-            'footTraffic': 'N/A',  # Placeholder for now
+            'peakFootTraffic': traffic_data['daily_average'],
             'dayType': day_type,
             'timeOfDay': time_of_day,
-            'weather': 'N/A',  # Placeholder for now
             'audienceType': audience_type,
-            'availableSpotsNearby': 0,  # Placeholder for now
             'globalContentCategories': event_data['globalContentCategories'],
             'ages': event_data['ages'],
-            'location': {
-                'lat': event_data['locations'][0].get('lat'),
-                'lng': event_data['locations'][0].get('lng'),
-                'address': event_data['locations'][0].get('address')
-            } if event_data['locations'] else {}
+            'peakFootTraffic': 'N/A',  # Placeholder for now
+            'weather': 'N/A',  # Placeholder for now
+            'availableSpotsNearby': 0,  # Placeholder for now
+            'location': event_location,
+            'contactEmail': contact_email,
+            'mainImage': event_image,
+            'socialLinks': social_links,
+            'description': event_description            
+        }
+
+        scored_events.append({
+            'leftPanelData': left_panel_data,
+            'fullEventData': full_event_data
         })
 
     except (IndexError, KeyError, TypeError) as e:
         print(f"Skipping event due to missing data: {e}")
 
 #  Sort events by score descending
-scored_events = sorted(scored_events, key=lambda x: int(x['score']), reverse=True)
+scored_events = sorted(scored_events, key=lambda x: int(x['leftPanelData']['score']), reverse=True)
 
 # Save the scored events to a test_output_samples folder
 output_path = './test_output_samples/scored_events.json'
@@ -133,4 +183,4 @@ os.makedirs(os.path.dirname(output_path), exist_ok=True)
 with open(output_path, 'w', encoding='utf-8') as f:
     json.dump(scored_events, f, indent=4, ensure_ascii=False)
 
-print(f"\n Scored events saved successfully to {output_path}")
+print(f"\n✅ Scored events saved successfully to {output_path}")

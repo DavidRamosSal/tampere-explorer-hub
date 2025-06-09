@@ -68,7 +68,8 @@ def calculate_score(
     if event_type_score > 0:
         score_breakdown.append({"type": "Event Type", "value": event_type_score})
 
-    # TODO: Rewrite this logic again.  # I am considering this as high foot traffic at the moment. 
+    # TODO: Rewrite this logic. 
+    # I am considering this as high foot traffic at the moment. Replace this when foot traffic is in place. 
     # 2. Views
     views = event_data.get('countViews', 0)
     views_score = 0
